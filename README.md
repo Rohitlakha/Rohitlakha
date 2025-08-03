@@ -31,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitlakha&show_icons=true&locale=en" alt="rohitlakha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitlakha&" alt="rohitlakha" /></p>
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![Rohitlakha snake gif](https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg)
