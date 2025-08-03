@@ -1,4 +1,4 @@
-![logo](https://github.com/Rohitlakha/Rohitlakha/blob/998ebbc4d978d151bc2eb53d860ce94f88e83258/github%20Banner.png)
+![logo](https://github.com/Rohitlakha/Rohitlakha/blob/7eaddc4b54d6ae7dc6bcd26cc0ece574cf2eebe9/Data%20Analyst%20Git%20hub%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate Data Analyst & Frontend Developer from India</h3>
 
