@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Rohitlakha/Rohitlakha/blob/50face5241ff511029377489cd967adb5d16fe52/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate Data Analyst & Frontend Developer from India</h3>
 
