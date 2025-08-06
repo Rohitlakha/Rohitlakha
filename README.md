@@ -28,7 +28,7 @@
 
 ### 🔗 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/rohit-lakha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
