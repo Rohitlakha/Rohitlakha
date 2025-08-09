@@ -81,5 +81,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning,+Always+growing;Passionate+about+Data;Let’s+connect+and+collaborate!&center=true&color=00ffff&width=1000" />
 </p>
-j
+
 
