@@ -1,4 +1,4 @@
-<!-- 🖼️ Banner -->
+<!-- 🖼️ Banne -->
 <p align="center">
   <img src="https://github.com/Rohitlakha/Rohitlakha/blob/7eaddc4b54d6ae7dc6bcd26cc0ece574cf2eebe9/Data%20Analyst%20Git%20hub%20Banner.jpg" alt="GitHub Banner" width="100%" />
 </p>
